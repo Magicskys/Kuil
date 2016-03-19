@@ -1,3 +1,4 @@
 wifiphisher https://github.com/sophron/wifiphisher.git
 sqlmap https://github.com/sqlmapproject/sqlmap.git
 hydra https://github.com/vanhauser-thc/thc-hydra.git
+metasploit https://github.com/rapid7/metasploit-framework.git
