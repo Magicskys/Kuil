@@ -3,3 +3,4 @@ sqlmap https://github.com/sqlmapproject/sqlmap.git
 hydra https://github.com/vanhauser-thc/thc-hydra.git
 metasploit https://github.com/rapid7/metasploit-framework.git
 hashcat https://github.com/hashcat/hashcat.git
+oclHashcat https://github.com/hashcat/oclHashcat.git
