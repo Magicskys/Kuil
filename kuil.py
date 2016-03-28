@@ -1,6 +1,6 @@
 import subprocess
 def ReadFile():
-    a=open("f:/py/gtools.txt")
+    a=open("./gtools.txt")
     f=a.readlines()
     a.close()
     Split(f)
