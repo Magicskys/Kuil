@@ -1,10 +1,11 @@
 wifiphisher https://github.com/sophron/wifiphisher.git
 sqlmap https://github.com/sqlmapproject/sqlmap.git
 hydra https://github.com/vanhauser-thc/thc-hydra.git
-metasploit https://github.com/rapid7/metasploit-framework.git
-hashcat https://github.com/hashcat/hashcat.git
-oclHashcat https://github.com/hashcat/oclHashcat.git
+#metasploit https://github.com/rapid7/metasploit-framework.git
+#hashcat https://github.com/hashcat/hashcat.git
+#oclHashcat https://github.com/hashcat/oclHashcat.git
 wifite https://github.com/derv82/wifite.git
 BeEF https://github.com/beefproject/beef.git
 arachni https://github.com/Arachni/arachni-ui-web.git
 ghost-phisher https://github.com/savio-code/ghost-phisher.git
+MITMf https://github.com/byt3bl33d3r/MITMf.git
