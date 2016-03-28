@@ -15,8 +15,9 @@ def Split(f):
         else:
             title.append(f[i][0])
             links.append(f[i][1])
-    print title,links
-
+    #print title,links
+    Down(title,links)
+    
 def Down(title,links):
     for i in range(len(title)):
         print title[i]
