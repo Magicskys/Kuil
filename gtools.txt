@@ -9,3 +9,5 @@ BeEF https://github.com/beefproject/beef.git
 arachni https://github.com/Arachni/arachni-ui-web.git
 ghost-phisher https://github.com/savio-code/ghost-phisher.git
 MITMf https://github.com/byt3bl33d3r/MITMf.git
+BDFProxy https://github.com/secretsquirrel/BDFProxy.git
+mitmfproxy https://github.com/mitmproxy/mitmproxy.git
