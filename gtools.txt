@@ -13,3 +13,4 @@ BDFProxy https://github.com/secretsquirrel/BDFProxy.git
 mitmfproxy https://github.com/mitmproxy/mitmproxy.git
 wfuzz https://github.com/xmendez/wfuzz.git
 nikto https://github.com/sullo/nikto.git
+toolkit https://github.com/trustedsec/social-engineer-toolkit.git
