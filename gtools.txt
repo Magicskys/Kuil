@@ -14,3 +14,6 @@ mitmfproxy https://github.com/mitmproxy/mitmproxy.git
 wfuzz https://github.com/xmendez/wfuzz.git
 nikto https://github.com/sullo/nikto.git
 toolkit https://github.com/trustedsec/social-engineer-toolkit.git
+WeBaCoo https://github.com/anestisb/WeBaCoo.git
+IntruderPayloads https://github.com/1N3/IntruderPayloads.git
+Cknife https://github.com/Chora10/Cknife.git
