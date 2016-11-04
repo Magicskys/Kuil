@@ -17,3 +17,4 @@ toolkit https://github.com/trustedsec/social-engineer-toolkit.git
 WeBaCoo https://github.com/anestisb/WeBaCoo.git
 IntruderPayloads https://github.com/1N3/IntruderPayloads.git
 Cknife https://github.com/Chora10/Cknife.git
+searchsploit https://github.com/offensive-security/exploit-database.git
