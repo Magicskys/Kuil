@@ -15,6 +15,7 @@ wfuzz https://github.com/xmendez/wfuzz.git
 nikto https://github.com/sullo/nikto.git
 toolkit https://github.com/trustedsec/social-engineer-toolkit.git
 WeBaCoo https://github.com/anestisb/WeBaCoo.git
+Weevely https://github.com/epinna/weevely3.git
 IntruderPayloads https://github.com/1N3/IntruderPayloads.git
 Cknife https://github.com/Chora10/Cknife.git
 searchsploit https://github.com/offensive-security/exploit-database.git
