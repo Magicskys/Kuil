@@ -1,5 +1,6 @@
 wifiphisher https://github.com/sophron/wifiphisher.git
 sqlmap https://github.com/sqlmapproject/sqlmap.git
+sqli-hunter https://github.com/zt2/sqli-hunter
 hydra https://github.com/vanhauser-thc/thc-hydra.git
 #metasploit https://github.com/rapid7/metasploit-framework.git
 #hashcat https://github.com/hashcat/hashcat.git
@@ -18,6 +19,7 @@ WeBaCoo https://github.com/anestisb/WeBaCoo.git
 Weevely https://github.com/epinna/weevely3.git
 IntruderPayloads https://github.com/1N3/IntruderPayloads.git
 Cknife https://github.com/Chora10/Cknife.git
+evlal_win https://github.com/pyqteval/evlal_win
 searchsploit https://github.com/offensive-security/exploit-database.git
 Windows-Exploit-Suggester https://github.com/GDSSecurity/Windows-Exploit-Suggester.git
 Linux_Exploit_Suggester https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
