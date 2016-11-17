@@ -19,3 +19,5 @@ Weevely https://github.com/epinna/weevely3.git
 IntruderPayloads https://github.com/1N3/IntruderPayloads.git
 Cknife https://github.com/Chora10/Cknife.git
 searchsploit https://github.com/offensive-security/exploit-database.git
+Windows-Exploit-Suggester https://github.com/GDSSecurity/Windows-Exploit-Suggester.git
+Linux_Exploit_Suggester https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
