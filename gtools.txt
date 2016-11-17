@@ -21,3 +21,4 @@ Cknife https://github.com/Chora10/Cknife.git
 searchsploit https://github.com/offensive-security/exploit-database.git
 Windows-Exploit-Suggester https://github.com/GDSSecurity/Windows-Exploit-Suggester.git
 Linux_Exploit_Suggester https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
+Brup_SuperSerial https://github.com/DirectDefense/SuperSerial.git
