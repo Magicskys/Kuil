@@ -22,6 +22,7 @@ Weevely https://github.com/epinna/weevely3.git
 Cknife https://github.com/Chora10/Cknife.git
 evlal_win https://github.com/pyqteval/evlal_win.git
 #exploit
+CMS-EXP https://github.com/chuhades/CMS-Exploit-Framework.git
 xsser https://github.com/Varbaek/xsser.git
 SET https://github.com/trustedsec/social-engineer-toolkit.git
 #metasploit https://github.com/rapid7/metasploit-framework.git
@@ -30,6 +31,8 @@ routesploit https://github.com/reverse-shell/routersploit.git
 searchsploit https://github.com/offensive-security/exploit-database.git
 Windows-Exploit-Suggester https://github.com/GDSSecurity/Windows-Exploit-Suggester.git
 Linux_Exploit_Suggester https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
+Vulscript https://github.com/0xwindows/VulScritp.git
+PRET https://github.com/RUB-NDS/PRET.git
 #brup
 Brup_SuperSerial https://github.com/DirectDefense/SuperSerial.git
 IntruderPayloads https://github.com/1N3/IntruderPayloads.git
