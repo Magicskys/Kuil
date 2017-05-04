@@ -33,3 +33,5 @@ Linux_Exploit_Suggester https://github.com/PenturaLabs/Linux_Exploit_Suggester.g
 #brup
 Brup_SuperSerial https://github.com/DirectDefense/SuperSerial.git
 IntruderPayloads https://github.com/1N3/IntruderPayloads.git
+#tor
+onioff https://github.com/k4m4/onioff.git
