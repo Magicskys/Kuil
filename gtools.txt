@@ -1,27 +1,35 @@
+#wifi
 wifiphisher https://github.com/sophron/wifiphisher.git
+wifite https://github.com/derv82/wifite.git
+#sql-inject
 sqlmap https://github.com/sqlmapproject/sqlmap.git
-sqli-hunter https://github.com/zt2/sqli-hunter
+#crack
 hydra https://github.com/vanhauser-thc/thc-hydra.git
-#metasploit https://github.com/rapid7/metasploit-framework.git
 #hashcat https://github.com/hashcat/hashcat.git
 #oclHashcat https://github.com/hashcat/oclHashcat.git
-wifite https://github.com/derv82/wifite.git
-BeEF https://github.com/beefproject/beef.git
+#web-scan
+nikto https://github.com/sullo/nikto.git
 arachni https://github.com/Arachni/arachni-ui-web.git
+#MIMT
 ghost-phisher https://github.com/savio-code/ghost-phisher.git
 MITMf https://github.com/byt3bl33d3r/MITMf.git
 BDFProxy https://github.com/secretsquirrel/BDFProxy.git
 mitmfproxy https://github.com/mitmproxy/mitmproxy.git
 wfuzz https://github.com/xmendez/wfuzz.git
-nikto https://github.com/sullo/nikto.git
-SET https://github.com/trustedsec/social-engineer-toolkit.git
+#back-dor
 WeBaCoo https://github.com/anestisb/WeBaCoo.git
 Weevely https://github.com/epinna/weevely3.git
-IntruderPayloads https://github.com/1N3/IntruderPayloads.git
 Cknife https://github.com/Chora10/Cknife.git
-evlal_win https://github.com/pyqteval/evlal_win
+evlal_win https://github.com/pyqteval/evlal_win.git
+#exploit
+xsser https://github.com/Varbaek/xsser.git
+SET https://github.com/trustedsec/social-engineer-toolkit.git
+#metasploit https://github.com/rapid7/metasploit-framework.git
+BeEF https://github.com/beefproject/beef.git
+routesploit https://github.com/reverse-shell/routersploit.git
 searchsploit https://github.com/offensive-security/exploit-database.git
 Windows-Exploit-Suggester https://github.com/GDSSecurity/Windows-Exploit-Suggester.git
 Linux_Exploit_Suggester https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
+#brup
 Brup_SuperSerial https://github.com/DirectDefense/SuperSerial.git
-xsser https://github.com/Varbaek/xsser.git
+IntruderPayloads https://github.com/1N3/IntruderPayloads.git
